@@ -1,2 +1,2 @@
 # curso_git1
-curso git
+curso de git e github
